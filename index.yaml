@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  poemfinder-app:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2021-04-23T07:00:00.6373061-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 7203de05ad4fda7dd040a8fe353875fe195d87ce40125ae4957b2cc7adb765ce
+    name: poemfinder-app
+    type: application
+    urls:
+    - https://selebera.github.io/chart-poemfinderapp/poemfinder-app-0.1.2.tgz
+    version: 0.1.2
+generated: "2021-04-23T07:00:00.6303783-07:00"
